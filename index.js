@@ -9,8 +9,8 @@ var fs = require('fs'),
 	conversion = require('./lib/conversion'),
 	filters = require('./lib/filters'),
 	streamBuffers = require("stream-buffers"),
-	MemoryStream = require('./lib/memoryStream'),
-	request = require('request');
+	MemoryStream = require('./lib/memoryStream');
+	// request = require('request');
 
 var Decoder = require('./lib/png/decoder');
 var Encoder = require('./lib/png/encoder');
