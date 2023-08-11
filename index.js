@@ -134,6 +134,9 @@ PNGImage._readImageFromFs = function (filename, fn) {
 };
 PNGImage._readImageFromUrl = function (url, fn) {
 
+  throw new Error("Reading image from a URL is not currently supported.");
+
+  /*
 	var stream, req;
 
 	request.head(url, function (err, res) {
@@ -159,6 +162,7 @@ PNGImage._readImageFromUrl = function (url, fn) {
 			});
 		}
 	});
+  */
 
 	return null; // This will be deprecated
 };
