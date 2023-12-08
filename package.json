@@ -1,11 +1,11 @@
 {
-  "name": "@foxandgeese/pngjs-image",
-  "version": "1.1.0",
+  "name": "@nodebug/pngjs-image",
+  "version": "1.0.0",
   "description": "JavaScript-based PNG image encoder, decoder, and manipulator",
   "license": "MIT",
   "main": "index.js",
-  "homepage": "https://github.com/foxandgeese/pngjs-image",
-  "bugs": "https://github.com/foxandgeese/pngjs-image/issues",
+  "homepage": "https://github.com/node-bug/pngjs-image",
+  "bugs": "https://github.com/node-bug/pngjs-image/issues",
   "contributors": [
     {
       "name": "Marcel Erz",
@@ -13,13 +13,13 @@
       "url": "http://www.marcelerz.com"
     },
     {
-      "name": "Galen Huntington",
-      "email": "galen@foxandgeese.com"
+      "name": "Node Bug",
+      "email": "nodebug@outlook.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/foxandgeese/pngjs-image.git"
+    "url": "https://github.com/node-bug/pngjs-image.git"
   },
   "keywords": [
     "PNG",

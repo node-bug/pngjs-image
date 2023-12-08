@@ -3,11 +3,11 @@ PNGjs-Image
 
 JavaScript-based PNG image encoder, decoder, and manipulator
 
-[![NPM version](https://badge.fury.io/js/@foxandgeese/pngjs-image.svg)](https://www.npmjs.com/package/@foxandgeese/pngjs-image)
-[![NPM License](https://img.shields.io/npm/l/@foxandgeese/pngjs-image.svg)](https://www.npmjs.com/package/@foxandgeese/pngjs-image)
+[![NPM version](https://badge.fury.io/js/@nodebug/pngjs-image.svg)](https://www.npmjs.com/package/@nodebug/pngjs-image)
+[![NPM License](https://img.shields.io/npm/l/@nodebug/pngjs-image.svg)](https://www.npmjs.com/package/@nodebug/pngjs-image)
 
-[![NPM](https://nodei.co/npm/@foxandgeese/pngjs-image.png?downloads=true&stars=true)](https://www.npmjs.com/package/@foxandgeese/pngjs-image)
-[![NPM](https://nodei.co/npm-dl/@foxandgeese/pngjs-image.png?months=3&height=2)](https://www.npmjs.com/package/@foxandgeese/pngjs-image)
+[![NPM](https://nodei.co/npm/@nodebug/pngjs-image.png?downloads=true&stars=true)](https://www.npmjs.com/package/@nodebug/pngjs-image)
+[![NPM](https://nodei.co/npm-dl/@nodebug/pngjs-image.png?months=3&height=2)](https://www.npmjs.com/package/@nodebug/pngjs-image)
 
 **Table of Contents**
 * [Installation](#installation)

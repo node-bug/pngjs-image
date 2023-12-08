@@ -23,7 +23,7 @@ describe('zzZz', function () {
 					unknownChunks: [
 						{
 							type: "teST",
-							data: new Buffer('this is a test', 'utf8')
+							data: Buffer.alloc('this is a test', 'utf8')
 						}
 					]
 				}

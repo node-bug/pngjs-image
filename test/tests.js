@@ -30,7 +30,7 @@ function generateImage (blob) {
  */
 function generateBlob () {
 
-	var buffer = new Buffer(2 * 3 * 4);
+	var buffer = Buffer.alloc(2 * 3 * 4);
 
 	buffer[0] = 18; // Red
 	buffer[1] = 22; // Green

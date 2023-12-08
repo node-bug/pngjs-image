@@ -11,3 +11,4 @@ examples/
 screwdriver/
 Makefile
 .idea/
+package-lock.json

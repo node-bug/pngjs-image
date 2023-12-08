@@ -41,7 +41,7 @@ describe('zzZz', function () {
 			});
 
 			it('should have the data', function () {
-				this.compareBuffer(this.data.unknownChunks[0].data, new Buffer('this is a test', 'utf8'));
+				this.compareBuffer(this.data.unknownChunks[0].data, Buffer.alloc('this is a test', 'utf8'));
 			});
 		});
 	});
